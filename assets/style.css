@@ -1,0 +1,48 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    padding-top: 80px;
+    background-color: #f7fafc;
+}
+
+.s-mr-2 {
+    margin-right: 0.5rem;
+}
+
+.s-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.s-box {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border: #cbd5e0 solid;
+    border-width: 1px;
+    overflow: hidden;
+    width: 8rem;
+}
+
+.s-image {
+    width: 100%;
+    align-items: center;
+}
+
+.s-text{
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+}
+
+@media (min-width: 768px) {
+    .s-box { width: 11rem; }
+}
