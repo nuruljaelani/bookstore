@@ -19,5 +19,4 @@ Website Toko buku online (hanya frontend)
 
 
 **Tampilan Aplikasi**
-![Screenshot_2020-12-16_14-00-51](https://user-images.githubusercontent.com/48466908/102315840-6d410c80-3fa7-11eb-9cfc-b4e940f41fc2.png)
-
+![Screenshot_2020-12-16_14-12-04](https://user-images.githubusercontent.com/48466908/102316728-0d4b6580-3fa9-11eb-8e34-b799027ca7f7.png)
